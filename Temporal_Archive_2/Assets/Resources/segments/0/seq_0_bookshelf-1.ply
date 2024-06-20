@@ -1,0 +1,14 @@
+ply
+format binary_little_endian 1.0
+comment Created by Open3D
+element vertex 27
+property double x
+property double y
+property double z
+property uchar red
+property uchar green
+property uchar blue
+end_header
+.9(a&ó¿ØğôJY†ÿ?Tol•`ø¿`NG1”í*$ó¿	§/úŠÿ?¸u7OuÈ÷¿eQJÃGÄ”H"ó¿ÒÁú?‡ÿ?ëâ6À[÷¿fRIàÖİ<Õ!ó¿¥Ú§ã1ƒÿ?>‘'IW÷¿fRI‹qş&"ó¿ïrß‰ÿ?íğ×dzö¿jYOÈ=›Uó¿Ï½‡Kÿ?	^)Kö¿m_Rí<,Ôó¿-&6×†ÿ?ï_{fIñ¿zl_Ì—`ó¿M„O¯”ÿ?1Bx´qDñ¿{m`>?Œó¿Æ‚”ÿ?ö´Ã_“µğ¿yi\ÅrK«!ó¿Š}"O’ÿ?«@-Óï¿}m`Â/õó¦"ó¿ ˜£Çïmÿ?ÑWf,š÷¿fVJÑ:ªš ó¿œ…=ípÿ?ZGUD]÷¿fUKŒ¹k	ù ó¿˜4Fë¨jÿ?wgí¶M÷¿gWJöÑ©+ó¿' ‰°áiÿ?Eğ¿•ìXö¿m]PçÆô„%ó¿Íé²˜Ø|ÿ?ÚUHùI5ö¿n^Q¥½Áó¿	Šcnÿ?q¥]Pñ¿‚sfACÿó¿yı\ÿ?Â/õó¦"ñ¿‚re~:3Pó¿¹S:Xÿgÿ?”ÁQòêğ¿‚tg%ušó¿‚ÅáÌ¯fÿ?®¹£ÿåÚï¿sf;äf¸ó¿\ AñcLÿ?­C9Ñ.ø¿cRHØG§®|ó¿pwÖn»Pÿ?Õ&Nîw¨ğ¿qd ‰°áéó¿°U‚ÅáLÿ?
+¿ÔÏ›Šğ¿„visº,&6ó¿®ãüMş?6“o¶¹1ô¿ˆ|pÁnØ¶(ó¿mçû©ñRş?ïÚÄÉò¿uòµg–(ó¿
+K< lJş?¨WÊ2Ä±ò¿Œ€t§èH.ÿ!ó¿ŠY/†r"ş?Pª}:3ô¿‚v6«>W[1ó¿DL‰$zş?“©‚QÉò¿‹s

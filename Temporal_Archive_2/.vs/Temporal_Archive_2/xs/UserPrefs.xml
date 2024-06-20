@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{6003CC3C-9B86-D1B1-729A-2A14DFD8DD86}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../README.md">
+    <Files>
+      <File FileName="Assets/Scripts/LoadAll.cs" Line="20" Column="1" />
+      <File FileName="Assets/Scripts/RadialSlider.cs" />
+      <File FileName="Assets/Scripts/FPS.cs" />
+      <File FileName="Assets/Scripts/radialObject.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MainToggle.cs" Line="1" Column="1" />
+      <File FileName="../README.md" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Temporal_Archive_2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="MainToggle.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="fc4bd622-0fcb-4c79-bbc8-9ff104f4423c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
