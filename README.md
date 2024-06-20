@@ -2,6 +2,9 @@
 
 **ARchive** is the thesis from MSc Architectural Computation, The Bartlett School of Architecture. This repository, is the front-end part of the thesis: an AR application developed using Unity for iOS devices. The app enables users to explore spatio-temporal archives through a mobile XR-based interface, transforming 3D scanned data into interactive knowledge.
 
+![ARchive_app](https://github.com/ilianakp/ARchive-Unity-AR-app/assets/37414826/c985bc08-01c4-4ed9-867e-5160dc70601e)
+
+
 ## Practical Steps
 
 To use the ARchive app:
@@ -49,4 +52,6 @@ This script loads all models from the Resources folder at the start of the appli
 
 Special thanks to the supervisor, Ava Fatah gen. Schieck, and technical supervisor, Sherif Tarabishy.
 
- 
+ ## Digital exhibition
+[https://bpro2021.bartlettarchucl.com/architectural-computation/xudong-liu-iliana-papadopoulou-tengfei-zhang
+](https://bpro2021.bartlettarchucl.com/architectural-computation/iliana-papadopoulou)
